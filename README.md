@@ -3,7 +3,7 @@
 > Status: Developing
 
 ### 💻 HTML e CSS 
-It is a web application project in the gaming universe, developed in just one week.
+It is a web application project in the gaming universe, developed in less than a week.
   
 ### Preview:
   
